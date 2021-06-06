@@ -1,0 +1,8 @@
+name = "TrackedUnits"
+uuid = "f19dedb4-d4ef-4a21-9dcc-41f90cf879b0"
+authors = ["Benoît Richard <benoit.richard@desy.de>"]
+version = "0.1.0"
+
+[deps]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
